@@ -25,14 +25,7 @@ The goal of this project is to develop a model that accurately predicts the hand
    ```bash
    git clone https://github.com/yourusername/MNIST-784.git
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the training script:
-   ```bash
-   python train.py
-   ```
+2. Run the train.ipynb
 
 ## Future Improvements
 - Experiment with more advanced architectures like Transfer Learning.
